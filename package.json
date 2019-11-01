@@ -1,0 +1,12 @@
+{
+  "name": "gotham",
+  "version": "0.1.0",
+  "description": "bot discord",
+  "main": "main.js",
+  "repository": "https://github.com/Flush-Dev/gotham.git",
+  "author": "Flush dev <flushthedev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
